@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Go
+*.exe
+*.test
+*.out
+
